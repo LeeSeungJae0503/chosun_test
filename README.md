@@ -25,6 +25,9 @@
 - `top -u 사용자` : 특정 사용자 프로세스만 보기
 - `top -n 5` : 5번 갱신 후 종료
 
+<img width="1534" height="398" alt="image" src="https://github.com/user-attachments/assets/dee84aa8-2c3d-4604-8076-7e402cf15061" />
+
+
 ## 2. `ps` — 프로세스 스냅샷 조회
 
 - 호출 시점의 프로세스 정보를 한 번만 출력
@@ -37,6 +40,9 @@
 - `ps -p PID` : 특정 PID 보기
 - `ps -u USER` : 특정 사용자 프로세스 보기
 - `ps aux | grep python` : 특정 키워드 포함 프로세스 찾기
+
+<img width="1487" height="166" alt="image" src="https://github.com/user-attachments/assets/d4ed0b6e-cf4b-4870-b073-66368923f954" />
+
 
 ### 주요 출력 컬럼
 
